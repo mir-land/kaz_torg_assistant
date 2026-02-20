@@ -1,6 +1,6 @@
 
-<img width="1365" height="832" alt="image" src="https://github.com/user-attachments/assets/0dd95b38-fd5b-41fa-a554-d3010e45c068" />
 <img width="1365" height="832" alt="image" src="https://github.com/user-attachments/assets/4f0011e5-7812-4493-88ff-db2dc1ebdd8f" />
+<img width="1026" height="800" alt="image" src="https://github.com/user-attachments/assets/d3131b17-33c3-4fdd-ba9a-0aee27252322" />
 
 # 🛒 SmartRetail Kiosk — ИИ Ассистент для магазина
 
