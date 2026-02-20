@@ -1,3 +1,7 @@
+
+<img width="1365" height="832" alt="image" src="https://github.com/user-attachments/assets/0dd95b38-fd5b-41fa-a554-d3010e45c068" />
+<img width="1365" height="832" alt="image" src="https://github.com/user-attachments/assets/4f0011e5-7812-4493-88ff-db2dc1ebdd8f" />
+
 # 🛒 SmartRetail Kiosk — ИИ Ассистент для магазина
 
 **Голосовой ИИ-помощник** для торговых точек с поддержкой казахского и русского языков.
